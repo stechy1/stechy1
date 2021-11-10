@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/stechy1/stechy1/output/github-contribution-grid-snake.svg)
+
 <!--
 **stechy1/stechy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
